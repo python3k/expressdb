@@ -1,3 +1,5 @@
+# Simple CRUD app using ExpressJS and MongoDB
+
 ## prerequisites:
 - NodeJS
 - npm install express
@@ -6,3 +8,7 @@
 
 ## run:
 `node app.js`
+
+
+# References
+[https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb]
