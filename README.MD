@@ -1,7 +1,10 @@
 # Simple CRUD app using ExpressJS and MongoDB
 
-## prerequisites:
-- NodeJS
+## prerequisites
+- mongoDB running on localhost and port 27017 (www.mongodb.com)
+- NodeJS (www.nodejs.org)
+
+## required nodeJS packages:
 - npm install express
 - npm install body-parser
 - npm install mongoose
